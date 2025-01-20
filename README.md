@@ -1,3 +1,5 @@
-## MyGate Payment Gateway For WHMCS
+# MyGate Payment Gateway For WHMCS #
 
-Decentralized Crypto Payments 🌐 https://mygate.me
+Decentralized Crypto Payments 
+## Summary ##
+🌐 https://mygate.me
