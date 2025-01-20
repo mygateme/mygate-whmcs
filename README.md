@@ -1,2 +1,2 @@
 # mygate-whmcs
-MyGate WHMCS
+MyGate Payment Gateway For WHMCS
