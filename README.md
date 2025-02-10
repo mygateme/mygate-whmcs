@@ -55,6 +55,7 @@ MyGate offers a comprehensive suite of features designed to reduce fees and boos
 3. Enter your WHMCS admin area and at the top-right click the `wrench icon`, then click on `Apps and integrations` and search for "mygate", wait and it should appear in the search results, activate it.
 4. Copy the webhook URL from `WHMCS > Payment gateway > MyGate > Webhook URL` and paste it into `MyGate > Settings > Webhook > Webhook URL`.
 5. Copy your API key from `MyGate > Account > API key` and paste it into `WHMCS > Payment Gateways > MyGate > API key`.
+
 You're done. Your WHMCS customers can now pay via MyGate.
 
 ### Frequently Asked Questions
