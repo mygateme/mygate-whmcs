@@ -1,0 +1,9 @@
+==========================================================
+MyGate Payment Gateway For WHMCS
+==========================================================
+© 2024 MyGate. All rights reserved.
+
+
+
+Installation Instructions:
+Please visit https://mygate.me/docs/#whmcs for detailed installation instructions.

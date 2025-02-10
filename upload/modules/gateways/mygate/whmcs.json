@@ -1,0 +1,34 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-gateways",
+  "name": "mygate",
+  "license": "proprietary",
+  "category": "payments",
+  "description": {
+    "name": "MyGate",
+    "tagline": "Decentralized Crypto Payments",
+    "long": "Seamlessly accept Bitcoin, Ethereum, Tether USDT, Custom Tokens and more. With our decentralized gateway, you stay in complete control of your funds.",
+    "features": [
+      "Most popular cryptocurrencies",
+      "ERC-20 and BEP-20 tokens",
+      "MetaMask Support",
+      "Custom nodes",
+      "Custom domain",
+      "Whitelabel",
+      "No KYC or product restrictions"
+    ]
+  },
+  "logo": {
+    "filename": "logo.png"
+  },
+  "support": {
+    "homepage": "https:\/\/mygate.me\/support\/",
+    "docs_url": "https:\/\/mygate.me\/docs\/#whmcs"
+  },
+  "authors": [
+    {
+      "name": "MyGate",
+      "homepage": "https:\/\/mygate.me\/"
+    }
+  ]
+}
